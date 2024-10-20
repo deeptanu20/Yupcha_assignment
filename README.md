@@ -17,6 +17,19 @@ This is a **MERN Stack** (MongoDB, Express, React, Node.js) application for mana
 **Backend**: Node.js, Express
 **Database**:MongoDB
 
+## Video Demonstration 🎥
+
+Click [here](https://drive.google.com/file/d/1tvUO9db3sVruVoi3ILxKTGWJfBF29z5g/view?usp=sharing) to watch the video.
+
+ **Video Summary**: 
+  In the video, explain:
+- How to add a new recipe.
+- How to search for recipes.
+- How to bookmark/unbookmark recipes.
+- How to edit and delete recipes.
+
+
+
 ## API Documentation 📡
 
 ### Base URL: `http://localhost:5000/api/recipes`
