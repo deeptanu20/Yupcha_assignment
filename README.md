@@ -13,9 +13,9 @@ This is a **MERN Stack** (MongoDB, Express, React, Node.js) application for mana
 - **Responsive Design**: Works seamlessly across all devices (mobile, tablet, desktop).
 
 ## Technologies Used 🛠️
-Frontend: React, Tailwind CSS,Shadcn
-Backend: Node.js, Express
-Database: MongoDB
+**Frontend**:React, Tailwind CSS,Shadcn.
+**Backend**: Node.js, Express
+**Database**:MongoDB
 
 ## API Documentation 📡
 
