@@ -1,0 +1,11 @@
+
+.bookmarked-recipe-card {
+    margin-bottom: 20px;
+}
+
+.bookmarked-recipe-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
