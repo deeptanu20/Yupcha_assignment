@@ -1,4 +1,4 @@
-# MERN Stack Food_Recipe_Viewer App 🍕
+# MERN Stack Food_Recipe_Viewer Application 🍕
 
 This is a **MERN Stack** (MongoDB, Express, React, Node.js) application for managing recipes. It allows users to **add**, **view**, **edit**, **bookmark**, and **search** for recipes.
 
